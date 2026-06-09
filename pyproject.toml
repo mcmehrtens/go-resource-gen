@@ -1,0 +1,10 @@
+[project]
+name = "go-resource-gen"
+version = "0.1.0"
+description = "Generate Spack resource() directives for Go module dependencies"
+readme = "README.md"
+authors = [
+    { name = "Matthew Mehrtens", email = "12023414+mcmehrtens@users.noreply.github.com" }
+]
+requires-python = ">=3.11"
+dependencies = []
